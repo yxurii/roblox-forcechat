@@ -4,6 +4,10 @@ An advanced graphical interface (GUI) designed for **Roblox Luau environments** 
 
 > ⚠️ **Disclaimer:** This script is provided strictly for educational purposes, security research, and vulnerability testing within your own development environments. Do not use this tool maliciously or on games you do not have authorization to test.
 
+
+HOW TO USE: loadstring(game:HttpGet('https://raw.githubusercontent.com/yxurii/roblox-forcechat/refs/heads/main/script.lua'))
+PRINT THIS BLOCK LOADSTRING INTO YOUR EXECUTOR AND EXECUTE.
+
 ## ⚡ Features
 
 * **Custom UI Framework:** Sleek, modern interface using modern design components (`UICorner`, `UIStroke`, `UIGradient`) built fully via code.
